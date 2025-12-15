@@ -2,7 +2,7 @@
 
 import Quick
 import Nimble
-import secp256k1
+import KeycardSecp256k1
 
 class TableOfContentsSpec: QuickSpec {
     override func spec() {
